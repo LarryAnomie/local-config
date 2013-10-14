@@ -1,4 +1,4 @@
 local-config
 ============
 
-Local Config
+My local configuration files to setup my machine just so.
